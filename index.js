@@ -4,7 +4,7 @@ var request = require('request').defaults({
     //timeout: 30000
 });
 
-var api = {};
+const api = {};
 
 api.url = 'http://www.supremenewyork.com';
 
